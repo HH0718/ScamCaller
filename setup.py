@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='ScammerFlooder',
-    version='0.1',
+    version='0.2',
     packages=['venv.lib.python3.6.site-packages.jwt', 'venv.lib.python3.6.site-packages.jwt.contrib',
               'venv.lib.python3.6.site-packages.jwt.contrib.algorithms', 'venv.lib.python3.6.site-packages.pip',
               'venv.lib.python3.6.site-packages.pip.req', 'venv.lib.python3.6.site-packages.pip.vcs',
@@ -188,7 +188,7 @@ setup(
               'venv.lib.python3.6.site-packages.pkg_resources._vendor.packaging'],
     url='https://github.com/HH0718/ScammerFlooder',
     license='MIT',
-    author='James Miller',
+    author='James Thrasher',
     author_email='James.s.miller1@gmail.com',
     description='Simple script to automate calls and playback messages using Twilio'
 )
